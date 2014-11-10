@@ -1,0 +1,22 @@
+{
+  "author": "Rilindo Foster",
+  "dependencies": [{ "name": "stahnma/epel", "version_requirement": ">=1.0.0" }],
+  "license": "Apache License, Version 2.0",
+  "name": "rilindo-google_authenticator",
+  "operatingsystem_support": [
+  	{
+    "operatingsystem":"RedHat",
+    "operatingsystemrelease":[ "5.0", "6.0" ]
+    },
+    {
+    "operatingsystem": "Ubuntu",
+    "operatingsystemrelease": [ "12.04", "14.04" ]
+    }
+  ],
+  "project_page": "",
+  "requirements": [],
+  "source": "",
+  "summary": "",
+  "tags": [],
+  "version": "0.1.0"
+}
