@@ -1,6 +1,9 @@
 {
   "author": "Rilindo Foster",
-  "dependencies": [{ "name": "stahnma/epel", "version_requirement": ">=1.0.0" }],
+  "dependencies": [
+  		{ "name": "stahnma/epel", "version_requirement": ">=1.0.0" }, 
+  		{ "name": "puppetlabs-ntp", "version_requirement": ">=1.0.0" }
+  ],
   "license": "Apache License, Version 2.0",
   "name": "rilindo-google_authenticator",
   "operatingsystem_support": [
@@ -27,5 +30,5 @@
   "source": "https://github.com/rilindo/rilindo-google_authenticator",
   "summary": "Installs Google Authenticator",
   "tags": ["google", "google-authenticator","two-factor","security"],
-  "version": "0.1.2"
+  "version": "0.1.3"
 }
